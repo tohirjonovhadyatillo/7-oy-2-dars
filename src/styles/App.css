@@ -1,0 +1,16 @@
+.App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .App button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .App button:hover {
+    background-color: #0056b3;
+  }
+  
